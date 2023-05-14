@@ -11,7 +11,7 @@ Then the course transitions to the high-level language Python. This transition i
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<b>Texto em Português</b>
+<b>Texto em português</b>
 
 <h2>Meu repositório do curso CS50x 2023 Introdução à Ciência da Computação.</h2>
 
