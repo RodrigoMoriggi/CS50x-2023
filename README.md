@@ -1,5 +1,5 @@
 # CS50x 2023
-My CS50 Introduction to Computer Science course repository.
+<h2>My CS50x 2023 Introduction to Computer Science course repository.</h2>
 
 CS50 is an introductory course offered by Harvard University that covers the fundamentals of computer science and programming.
 
@@ -11,7 +11,9 @@ Then the course transitions to the high-level language Python. This transition i
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Texto em Português
+<b>Texto em Português</b>
+
+<h2>Meu repositório do curso CS50x 2023 Introdução à Ciência da Computação.</h2>
 
 O CS50 é um curso introdutório oferecido pela Universidade de Harvard, que aborda os fundamentos da ciência da computação e da programação.
 
