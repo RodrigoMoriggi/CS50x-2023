@@ -1,5 +1,17 @@
-# CS50
- My CS50 Introduction to Computer Science course repository.
+# CS50x 2023
+My CS50 Introduction to Computer Science course repository.
+
+CS50 is an introductory course offered by Harvard University that covers the fundamentals of computer science and programming.
+
+The purpose of the course is to teach students how to solve problems, using both code and non-programmatic approaches. The focus is on the correctness, design and style of proposed solutions. Topics covered include computational thinking, abstraction, algorithms, data structures, and other fundamental computer science concepts. In addition, CS50 presents problem sets inspired by diverse areas such as arts, humanities, social sciences and natural sciences, providing a broader and interdisciplinary view.
+
+A unique aspect of the course is that it doesn't just focus on teaching a specific programming language, but rather on teaching the fundamental principles of programming. The course starts with the C programming language, which is a traditional and widely used language. Through learning C, students not only gain knowledge about basic concepts such as functions, variables, conditionals and loops, but also have the opportunity to understand the inner workings of computers, including aspects such as memory and systems architecture.
+
+Then the course transitions to the high-level language Python. This transition is facilitated by prior knowledge acquired in C, allowing students to further understand the concepts and features offered by Python. At the end of the period, CS50 introduces SQL, a language for manipulating databases, along with web technologies such as HTML, CSS and JavaScript, which are essential for developing web and mobile applications.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Texto em Português
 
 O CS50 é um curso introdutório oferecido pela Universidade de Harvard, que aborda os fundamentos da ciência da computação e da programação.
 
